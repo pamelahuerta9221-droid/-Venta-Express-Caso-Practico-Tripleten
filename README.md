@@ -11,3 +11,6 @@ Se me presentó un caso como analista de datos en "VentaExpress", una empresa de
 
 ## Conclusión y Recomendación
 Al analizar las ventas totales y el promedio de ventas de Monterrey, se recomiendó aumentar la venta de productos con mayor denominación para así poder captar mayor cantidad monetaria. Se dedujo que no existiría un impacto negativo en dicho mercado ya que el número de transacciones era igual a la de Ciudad de México y solo existía una diferencia de $105.86 en el promedio de ventas de ambas ciudades.
+
+Para visualizar el caso completo, revisar el siguiente enlace de Google Sheets:
+🔗https://docs.google.com/spreadsheets/d/1IEtTNO_RbCKb1fW_3nLMdFmS44t4aHuk/edit?usp=sharing&ouid=105447413612201055698&rtpof=true&sd=true
